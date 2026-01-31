@@ -1,4 +1,4 @@
-# Async Call Packet Ingestion and AI Processing Service
+# AI PBX Backend
 
 This project is a FastAPI-based asynchronous backend service designed for real-time ingestion of packetized call data, persistent storage, and non-blocking AI-based processing with retry and exponential backoff mechanisms.
 
